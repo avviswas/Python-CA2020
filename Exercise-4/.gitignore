@@ -1,0 +1,7 @@
+#compiled sources#
+*.exe
+*.o
+*.jar
+
+#directories#
+libraries/
