@@ -4,7 +4,8 @@
 # If a number is divisible by both 3 and 5 it should print “Consultadd - Python Training” as astring.
 
 a = int(input('Enter any integer: '))
-if (a%3 == 0 & a%5 == 0):
+
+if (a%3 == 0 and a%5 == 0):
     print('Consultadd - Python Training')
 elif (a%3 ==0):
     print ('Consultadd')

@@ -44,7 +44,11 @@ print('Final Result: ', result)
 a = int(input('enter any value : '))
 print("The data type of the input value is ",type(a))
 
-# 7.Create Variables using formats such as Upper CamelCase, Lower CamelCase, SnakeCase andUPPERCASE.
+# 7.Create Variables using formats such as Upper CamelCase, Lower CamelCase, SnakeCase and UPPERCASE.
+string = CamelCase
+string.lower()
+string.upper()
+string.capitalize()
 
 # 8.If one data type value is assigned to ‘a’ variable and then a different 
 # data type value is assigned to ‘a’again. Will it change the value? If Yes then Why?
