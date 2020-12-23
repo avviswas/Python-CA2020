@@ -45,12 +45,19 @@ a = int(input('enter any value : '))
 print("The data type of the input value is ",type(a))
 
 # 7.Create Variables using formats such as Upper CamelCase, Lower CamelCase, SnakeCase and UPPERCASE.
-string = CamelCase
-string.lower()
-string.upper()
-string.capitalize()
+
+CamelCase = 1
+CAMELCASE = 2
+Camel_Case = 3
+camelcase = 4
+CAMELCASE = 5
+
+# string = CamelCase
+# string.lower()
+# string.upper()
+# string.capitalize()
 
 # 8.If one data type value is assigned to ‘a’ variable and then a different 
-# data type value is assigned to ‘a’again. Will it change the value? If Yes then Why?
+# data type value is assigned to ‘a’ again. Will it change the value? If Yes then Why?
 #Answer:Yes, in python the latest declaration is considered as the value of the variable
 
