@@ -41,7 +41,7 @@ print('Final Result: ', result)
 
 # 6.Write a program to check the data type of the entered values.
 
-a = int(input('enter any value : '))
+a = eval(input('enter any value : '))
 print("The data type of the input value is ",type(a))
 
 # 7.Create Variables using formats such as Upper CamelCase, Lower CamelCase, SnakeCase and UPPERCASE.
